@@ -1,0 +1,6 @@
+{
+  "name": "فروشگاه آنلاین لوازم جانبی موبایل | جانبی‌پلاس",
+  "description": "فروشگاه تخصصی انواع لوازم جانبی موبایل، قاب، گلس، شارژر و ایرپاد با امکان خرید آنلاین، انتخاب مدل گوشی و درگاه پرداخت شاپرک",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
